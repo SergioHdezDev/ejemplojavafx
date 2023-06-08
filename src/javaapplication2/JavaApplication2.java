@@ -24,6 +24,6 @@ public class JavaApplication2 extends Application{
     public void start(Stage stage) throws Exception {
         stage.setTitle("ejemplo");
         stage.show();
-    }
+    }   
     
 }
